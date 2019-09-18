@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.rudolf.plan.zst_plan_lekcji.History">
+    <item
+        android:id="@+id/action_classes"
+        android:icon="?attr/actionModeCopyDrawable"
+        android:title="@string/action_classes" />
+    <item
+        android:id="@+id/action_teachers"
+        android:icon="@drawable/nau"
+        android:title="@string/action_teachers" />
+    <item
+        android:id="@+id/action_classrooms"
+        android:icon="@drawable/kl"
+        android:title="@string/action_classrooms" />
+</menu>

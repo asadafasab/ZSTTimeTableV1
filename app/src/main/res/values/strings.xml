@@ -1,0 +1,169 @@
+<resources>
+
+    <string name="app_name">Plan Lekcji</string>
+    <string name="action_about">O aplikacji</string>
+    <string name="action_teachers">Nauczyciele</string>
+    <string name="action_classes">Klasy</string>
+    <string name="action_classrooms">Sale</string>
+    <string name="action_history">Historia</string>
+    <string name="loading">¯\\(°_o)/¯</string>
+    <string name="news">Aktualności</string>
+
+    <string name="monday">Poniedzialek</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="wednesday">Środa</string>
+    <string name="thursday">Czwartek</string>
+    <string name="friday">Piątek</string>
+
+
+    <string name="g1">8:00  &#8211;  8:45</string>
+    <string name="g2">8:55 &#8211; 9:40</string>
+    <string name="g3">9:50 &#8211; 10:35</string>
+    <string name="g4">10:45 &#8211; 11:30</string>
+    <string name="g5">11:40 &#8211; 12:25</string>
+    <string name="g6">12:40 &#8211; 13:25</string>
+    <string name="g7">13:35 &#8211; 14:20</string>
+    <string name="g8">14:25 &#8211; 15:10</string>
+    <string name="g9">15:15 &#8211; 16:00</string>
+
+
+    <string-array name="array_class">
+        <item>4EB</item>
+        <item>4LC</item>
+        <item>4MP</item>
+        <item>4TA</item>
+        <item>4TF</item>
+        <item>4TI</item>
+        <item>4TL</item>
+        <item>4TM</item>
+        <item>4TO</item>
+        <item>4TT</item>
+        <item>3TA</item>
+        <item>3TL</item>
+        <item>3TG</item>
+        <item>3TM</item>
+        <item>3TE</item>
+        <item>3TI</item>
+        <item>3TT</item>
+        <item>3TZ</item>
+        <item>3FO</item>
+        <item>3MP</item>
+        <item>2TA</item>
+        <item>2TF</item>
+        <item>2TI</item>
+        <item>2TL</item>
+        <item>2TM</item>
+        <item>2TS</item>
+        <item>2TT</item>
+        <item>2TZ</item>
+        <item>2EB</item>
+        <item>2GO</item>
+        <item>2IC</item>
+        <item>1TA</item>
+        <item>1TI</item>
+        <item>1TL</item>
+        <item>1TM</item>
+        <item>1TT</item>
+        <item>1EC</item>
+        <item>1RT</item>
+        <item>1LH</item>
+        <item>1FZ</item>
+        <item>3m</item>
+        <item>3sa</item>
+        <item>3h</item>
+        <item>3fs</item>
+        <item>3w</item>
+        <item>3kw</item>
+        <item>2fs</item>
+        <item>2hk</item>
+        <item>2ma</item>
+        <item>2ow</item>
+        <item>1km1</item>
+        <item>1hf</item>
+        <item>1sa</item>
+        <item>1m1</item>
+        <item>1w1</item>
+        <item>3LO</item>
+        <item>2LO</item>
+    </string-array>
+
+    <string-array name="array_classrooms">
+        <item>A005 mechaniczna</item>
+        <item>A006 gastronomiczna</item>
+        <item>A006a gastronomiczna</item>
+        <item>Agastro pracownia gastronomiczna</item>
+        <item>A04 gastronomiczna</item>
+        <item>A06 edb</item>
+        <item>A08 fizyka</item>
+        <item>A12 matematyka</item>
+        <item>A14 j  polski</item>
+        <item>A15 religia</item>
+        <item>A16 historia</item>
+        <item>A17 matematyka</item>
+        <item>A22 biologia</item>
+        <item>A23 j  polski</item>
+        <item>A24 mechanika</item>
+        <item>A25 j  obce</item>
+        <item>A26 geografia</item>
+        <item>AMCI informtyka</item>
+        <item>A11 informatyka</item>
+        <item>A21 informatyka</item>
+        <item>B001 ogólnodostępna</item>
+        <item>B002 informatyka pracownia</item>
+        <item>B003 informatyka pracownia</item>
+        <item>B007 ogólnodostępna</item>
+        <item>B008 elektryczna pracownia</item>
+        <item>B08a językowa</item>
+        <item>B02 informatyka pracownia</item>
+        <item>B04 informatyczna</item>
+        <item>B05 informatyka pracownia</item>
+        <item>B101 j  polski</item>
+        <item>B102 matematyka</item>
+        <item>B107 chemia</item>
+        <item>B109 j  obcy</item>
+        <item>B110 j  obcy</item>
+        <item>B201 ekonomia</item>
+        <item>B202 ekonomia</item>
+        <item>B203 elektryczna elektroniczna</item>
+        <item>B205 j  polski</item>
+        <item>B206 religia</item>
+        <item>B207 matematyka</item>
+        <item>B208 matematyka</item>
+        <item>C03 mechanika samochodowa</item>
+        <item>C05 pracownia elektroniczna</item>
+        <item>C08 mechaniczna_przepisy_r_d</item>
+        <item>C013 mechatronik_CNC</item>
+        <item>C014 mechanik pojazdów_diagnostyka</item>
+        <item>C015 mechatroniczna</item>
+        <item>C15 informatyka</item>
+        <item>D1 fryzjer</item>
+        <item>D2 teleinformatyczna</item>
+        <item>D3 ogólnodostępna</item>
+        <item>D5 ogólnodostępna</item>
+        <item>E06 matematyka</item>
+        <item>E10 humanistyczna</item>
+        <item>E20 język obcy</item>
+        <item>E21 język obcy</item>
+        <item>E22 język obcy</item>
+        <item>E23 odzieżowa</item>
+        <item>E25 język polski</item>
+        <item>E26 informatyczno-ekonomiczna</item>
+        <item>E24 logistyczno-informatyczna</item>
+        <item>E27 ogólnodostępna</item>
+        <item>E31 geografia</item>
+        <item>E33 informatyka</item>
+        <item>E34 fizyka</item>
+        <item>E35 matematyka</item>
+        <item>E36 ogólnodostępna </item>
+        <item>E37 języki obce </item>
+        <item>Asg1 wf</item>
+        <item>Asg2 wf</item>
+        <item>Asg3 wf</item>
+        <item>Asi wf</item>
+        <item>Asm wf</item>
+        <item>Dh1 wf</item>
+        <item>Dh2 wf</item>
+        <item>Dh3 wf</item>
+        <item>DFi wf</item>
+    </string-array>
+</resources>
