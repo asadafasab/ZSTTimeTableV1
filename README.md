@@ -11,8 +11,8 @@ Application uses jsoup for parsing html.
 
 ## License
 
-This project is released under the MIT Licence.
+This project is released under the Mozilla Public License 2.0.
 
 ## Authors
-Rudolf <br/>
-Kiwav(Kropidło)
+* Rudolf
+* Kiwav(Kropidło)
